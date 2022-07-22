@@ -1,0 +1,94 @@
+body{
+    background: #d2d2c1 url('images/fundo.png');
+    font: 18px, arial, helvetica, sans-serif;
+    position: relative;
+}
+
+
+
+#TUDO{
+    width: 900px;
+}
+
+
+#fundoTexto{
+    padding: 25px;
+    background: fixed;
+    background-color: #c5c5b2
+}
+
+.texto{
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+}
+
+#fundoConteudo{
+    padding: 15px;
+    background-color: bisque;
+    position: relative;
+}
+
+.texto2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    position: relative;
+}
+
+.paragrafo1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    align-self: auto;
+    position: relative;
+    font-size: 16px;
+}
+
+
+
+.rodape{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    align-items: center;
+    font-size: small;
+    text-decoration: solid;
+    text-shadow: #000000;
+    padding: 0.2px;
+    text-align: center;
+    font-weight:500;
+    margin: auto;
+}
+
+.background{
+    position: relative;
+}
+
+a{
+    color: #828271;
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+
+.imgf{
+    padding: 10px;
+    background-color: #b8b89c;
+    border-radius: 10%;
+}
+
+.img3{
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border-image-slice: fill;
+    width: 60px;
+}
+
+.img4{
+    padding: 0.1px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border-image-slice: fill;
+    width: 80px;
+}
+
